@@ -1,5 +1,6 @@
 # Sistema de Controle Financeiro
-![image](https://user-images.githubusercontent.com/108904411/218835778-a1c22a52-dd8a-46f4-af63-57a4cea34fa3.png)
+![image](https://user-images.githubusercontent.com/108904411/218836609-4b6d72c8-bf74-4f02-b9b4-5d980dad1748.png)
+
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
